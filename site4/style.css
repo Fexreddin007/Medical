@@ -1,0 +1,23 @@
+:root { --mavi: #6bc2f1 }
+header { background: url('img/headerbg.jpg') center/cover; }
+textarea{resize: none;}
+.bg-body-nav { background: #ffffffcc } 
+.bg-tund-mavi{background-color: #072035;}
+.bg-boz { background-color: #f1f1f1; }
+.bg-mavi { background-color: var(--mavi); }
+.text-mavi { color: var(--mavi); }
+.border-mavi { border: 1px solid var(--mavi); transition: .5s;}
+.border-mavi:hover{background-color:var(--mavi); color:white;}
+.vh-50 { min-height: 50vh; }
+.b-teq{font-size: 100px;}
+.olcu-200{min-width:150px;}
+.olcu-200{max-width: 420px;}
+.olcu-100{width:100px;}
+.olcu-150{width: 150px;}
+.olcu-470{max-width: 470px;}
+.olcu-f-14{font-size: 14px;}
+.text-width{max-width:800px;}
+#hekim { max-width: 440px;}
+#f1 { background: url('img/f1.jpg') center/cover;}
+#f2 { background: url('img/f2.jpg') center/cover;}
+input,textarea{ outline: none;}
